@@ -1,4 +1,4 @@
-age = input("How old are you? ")
+age = int(input("How old are you? "))
 
 next_year = age + 1
 
