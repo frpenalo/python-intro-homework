@@ -1,14 +1,13 @@
 students = [
-    {"name": "Jazmin", "score": 82, "subject": "Python"},
-    {"name": "Sara", "score": 88, "subject": "Data"},
-    {"name": "Francisco", "score": 95, "subject": "Web"},
-    {"name": "Mia", "score": 79, "subject": "Python"},
-    {"name": "Eli", "score": 84, "subject": "Data"},
-    {"name": "Emma", "score": 67, "subject": "Web"},
-    {"name": "Luis", "score": 72, "subject": "Python"},
-    {"name": "Ana", "score": 83, "subject": "Data"}
+    {"name": "Jazmine", "score": 88, "subject": "Python"},
+    {"name": "Luis",    "score": 74, "subject": "Data"},
+    {"name": "Sara",    "score": 91, "subject": "Python"},
+    {"name": "Marcus",  "score": 68, "subject": "Web"},
+    {"name": "Priya",   "score": 95, "subject": "Data"},
+    {"name": "Devon",   "score": 72, "subject": "Python"},
+    {"name": "Mia",     "score": 83, "subject": "Web"},
+    {"name": "Eli",     "score": 79, "subject": "Data"},
 ]
-
 
 # Find the top scorer
 highest_score = 0
